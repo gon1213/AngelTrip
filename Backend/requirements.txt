@@ -27,7 +27,7 @@ olefile==0.44
 pandas==0.19.2
 Pillow==4.1.1
 psycopg2==2.7.1
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.0
 python-openid==2.2.5
 pytz==2017.2
